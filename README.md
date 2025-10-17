@@ -20,7 +20,6 @@ Já experimentei com diversas linguagens e frameworks, mas tenho mais experiênc
 
 #### Onde me encontrar:
 [![Instagram](https://img.shields.io/badge/Instagram-1?style=for-the-badge&color=purple&logo=instagram)](https://www.instagram.com/bru_righi/)
-[![E-mail](https://img.shields.io/badge/brunadsrighi@gmail.com-1?style=for-the-badge&color=black&logo=gmail&)](brunadsrighi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&)](https://www.linkedin.com/in/bruna-righi/)
 
 ### Git status ✨
