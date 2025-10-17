@@ -26,3 +26,10 @@ Já experimentei com diversas linguagens e frameworks, mas tenho mais experiênc
 ### Git status ✨
 ![Bruna-righi's Stats](https://github-readme-stats.vercel.app/api?username=Bruna-righi&theme=buefy&show_icons=true&hide_border=true&count_private=true)
 ![Bruna-righi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-righi&theme=buefy&show_icons=true&hide_border=true&layout=compact)
+
+### Cobrinha!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
